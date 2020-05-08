@@ -8,4 +8,4 @@ which is the format that redshirt accepts for module hashes.
 
 # Licenses
 
-- `doom.wasm` is under GPL. Its source code consists of the code on [the official GitHub repository](https://github.com/id-Software/DOOM/tree/master/linuxdoom-1.10) with [the following diff](https://gist.github.com/tomaka/fe03a26a9a39d9bd120bf1be4cdfb16e) applied to it.
+- `doom.wasm` is under GPL. Its source code consists of the code on [the official GitHub repository](https://github.com/id-Software/DOOM/tree/master/linuxdoom-1.10) with [the following diff](https://gist.github.com/tomaka/4b75353bb6af8499d58ab2fe569c61c5) applied to it.
